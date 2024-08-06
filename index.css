@@ -1,0 +1,19 @@
+.cal{
+    border: 2px solid rgb(229, 237, 237);
+    height: 325px;
+    width: 30%;
+}
+.display{
+    margin: 10px 18px;
+    font-size: 15px;
+}
+.butt{
+    width: 51px;
+    height: 41px;
+    margin: 3px;
+}
+.button-num{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
